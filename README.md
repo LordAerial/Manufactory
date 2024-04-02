@@ -8,5 +8,4 @@ The active modpack for all players playing on the Manufactory minecraft civiliza
 
 ## 🔗 Links
 [![discord](https://img.shields.io/discord/1219040310768959529
-)]([https://discord.gg/C4XkT3RWYw/])
-
+)](https://discord.gg/C4XkT3RWYw)
